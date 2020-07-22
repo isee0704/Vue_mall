@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a60482a-26a6-45bf-9ca5-5a838c67e7aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1ew9l4kx2GuD8Es0fMNsjfArsPn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/views/detail/childComps" />
+      <recent name="$PROJECT_DIR$/src/components/common" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a60482a-26a6-45bf-9ca5-5a838c67e7aa" name="Default Changelist" comment="" />
+      <created>1595221935611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595221935611</updated>
+      <workItem from="1595221937757" duration="3197000" />
+      <workItem from="1595225399684" duration="17584000" />
+      <workItem from="1595252264678" duration="1062000" />
+      <workItem from="1595292119694" duration="33160000" />
+      <workItem from="1595380026030" duration="238000" />
+      <workItem from="1595380321724" duration="357000" />
+    </task>
+    <task id="LOCAL-00001" summary="vue_mall">
+      <created>1595379663299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595379663299</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vue_mall">
+      <created>1595379880753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595379880753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="vue_mall">
+      <created>1595379920490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595379920490</updated>
+    </task>
+    <task id="LOCAL-00004" summary="vue_mall">
+      <created>1595379948316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595379948316</updated>
+    </task>
+    <task id="LOCAL-00005" summary="vue_mall">
+      <created>1595380408173</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595380408173</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vue_mall" />
+    <option name="LAST_COMMIT_MESSAGE" value="vue_mall" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595225501235">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595225501235" />
+    <state x="458" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595223036079">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="458" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595223036079" />
+    <state x="258" y="24" key="CommitChangelistDialog2" timestamp="1595380407892">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="258" y="24" key="CommitChangelistDialog2/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595380407892" />
+    <state width="1419" height="162" key="GridCell.Tab.0.bottom" timestamp="1595379979840">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1419" height="162" key="GridCell.Tab.0.bottom/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595379979840" />
+    <state width="1419" height="162" key="GridCell.Tab.0.center" timestamp="1595379979839">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1419" height="162" key="GridCell.Tab.0.center/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595379979839" />
+    <state width="1419" height="162" key="GridCell.Tab.0.left" timestamp="1595379979839">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1419" height="162" key="GridCell.Tab.0.left/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595379979839" />
+    <state width="1419" height="162" key="GridCell.Tab.0.right" timestamp="1595379979840">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1419" height="162" key="GridCell.Tab.0.right/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595379979840" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1595380285106">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595380285106" />
+    <state x="320" y="152" key="Vcs.Push.Dialog.v2" timestamp="1595380591498">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="320" y="152" key="Vcs.Push.Dialog.v2/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595380591498" />
+    <state x="525" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595380667834">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="525" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595380667834" />
+    <state x="385" y="149" key="search.everywhere.popup" timestamp="1595323649233">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="385" y="149" key="search.everywhere.popup/1440.23.1440.877/0.23.1440.802@0.23.1440.802" timestamp="1595323649233" />
+  </component>
+</project>
